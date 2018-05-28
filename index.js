@@ -1,7 +1,6 @@
-var connect = require('connect');
-var serveStatic = require('serve-static');
-
-
-connect().use(serveStatic("WebDir")).listen(80, function(){
-    console.log('Server running on 80...');
+var connect = require('connect'); 
+var serveStatic = require('serve-static'); 
+ 
+connect().use(serveStatic("WebDir")).listen(80, function(){ 
+    console.log('Server running on port 80...'); 
 });
