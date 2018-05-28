@@ -1,0 +1,22 @@
+{
+  "name": "isyourteammateanoob",
+  "version": "1.0.0",
+  "description": "A tool that lets you see if your teammate in fortnite is a noob.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niikurasu/IsYourTeammateANoob.git"
+  },
+  "keywords": [
+    "fortnite"
+  ],
+  "author": "Nikurasu & Teariun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niikurasu/IsYourTeammateANoob/issues"
+  },
+  "homepage": "https://github.com/Niikurasu/IsYourTeammateANoob#readme"
+}
